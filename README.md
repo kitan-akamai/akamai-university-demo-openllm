@@ -54,7 +54,7 @@ This repository is a demonstration showcasing how developers can leverage Akamai
      sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
    apt-get update
 
-   apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
    ```
 
 4. Install Ollama:
