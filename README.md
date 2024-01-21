@@ -94,7 +94,7 @@ This repository is a demonstration showcasing how developers can leverage Akamai
 
 10. Once ngrok started, grab the publicly accessible URL under Forwarding row, e.g.: https://5344-2400-8905-00-f03c-94ff-fe24-b6e.ngrok-free.app/c/d11e4b81-3fbf-4abe-b0c3-48131c487272. 
 
-**Continue to explore Ollama Web UI with different open LLMs model**
+**Continue to explore Ollama Web UI with different open LLMs model and have fun!**
 
 ## Disclaimer
-The deployment provided in this repository is minimal and intended for demonstration purposes only. For more detailed information, please refer to the open-source tools Docker, Ollama, and Ollama Web UI.
+The deployment provided in this repository is minimal and intended for demonstration purposes only. For more detailed information, please refer to the open-source tools [Docker](https://docs.docker.com/), [Ollama](https://github.com/jmorganca/ollama), and [Ollama Web UI](https://github.com/ollama-webui/ollama-webui).
