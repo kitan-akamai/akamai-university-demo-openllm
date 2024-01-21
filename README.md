@@ -92,7 +92,7 @@ This repository is a demonstration showcasing how developers can leverage Akamai
    # Optional -> ngrok http 3000 --oauth google --oauth-allow-email youremail@gmail.com
    ```
 
-10. Once ngrok started, grab the publicly accessible URL under Forwarding row, e.g.: https://5344-2400-8905-00-f03c-94ff-fe24-b6e.ngrok-free.app/c/d11e4b81-3fbf-4abe-b0c3-48131c487272. 
+10. Once ngrok started, grab the publicly accessible URL under Forwarding row. 
 
 **Continue to explore Ollama Web UI with different open LLMs model and have fun!**
 
